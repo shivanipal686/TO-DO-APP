@@ -24,5 +24,3 @@ This is a basic JavaScript-based To-Do App built using only HTML and JS.
 - Simple and beginner-friendly logic
 
 ---
-
-Feel free to try it and improve it!
